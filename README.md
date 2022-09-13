@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @vivekadithya21
-- 👀 I’m interested in competitive programming i completd the baiscs of programming languages c++ and java.
-- 🌱 I’m currently learning python and django frame work for bulding web sites.
+- 👋 Hi,I’m J.VIVEK ADITHYA...
+- 👀 I’m,interested in competitive programming.I completd the baiscs of programming languages C++ and JAVA.
+- 🌱 I’m,currently learning PYTHON and DJANGO frame work for building web sites.
 - 
-- 💞️ I’m looking to collaborate on company who are ready to give me challanges ahead in my journey/////
-- 📫 u can reach me thriugh my mail vivekadithya.j@gmail.com
+- 💞️ I’m,looking to collaborate on company who are ready to give me challanges ahead in my journey/////
+- 📫 U can reach me through my MAIL-ID ///vivekadithya.j@gmail.com///
 
 <!---
 vivekadithya21/vivekadithya21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
