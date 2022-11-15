@@ -1,8 +1,8 @@
 - 👋 Hi,I’m J.VIVEK ADITHYA...
-- 👀 I’m,interested in competitive programming.I completd the baiscs of programming languages C++ and JAVA.
+- 👀 I’m,interested in competitive programming.I completed the basics of programming languages C++ and JAVA.
 - 🌱 I’m,currently learning PYTHON and DJANGO frame work for building web sites.
 - 
-- 💞️ I’m,looking to collaborate on company who are ready to give me challanges ahead in my journey/////
+- 💞️ I’m,looking to collaborate with companies who are ready to give me challanges ahead in my journey/////
 - 📫 U can reach me through my MAIL-ID ///vivekadithya.j@gmail.com///
 
 <!---
